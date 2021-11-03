@@ -1,0 +1,6 @@
+# Project exclude paths
+/node_modules/
+/.eslintcache
+/kulut.iml
+/.idea/
+/.git/
